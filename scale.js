@@ -266,7 +266,7 @@ Scale.stareiScale =  new Scale({
         },
         {
             threshold: 54,
-            color: ['#eaff00'],
+            color: ['#9dff3b'],
             subtropicalColor: ['#c9ff87'],
             symbol: 'S',
             stormNom: 'Tropical Storm',
