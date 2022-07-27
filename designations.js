@@ -639,8 +639,8 @@ DesignationSystem.periodicTableAnnual.naming.annual = true;
 DesignationSystem.periodicTableAnnual.displayName = 'Periodic Table (Annual)';
 
 DesignationSystem.presetDesignationSystems = [
-    DesignationSystem.atlantic,
     DesignationSystem.atlanticRei,
+    DesignationSystem.atlantic,
     DesignationSystem.easternPacific,
     DesignationSystem.centralPacific,
     DesignationSystem.westernPacific,
