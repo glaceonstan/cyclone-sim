@@ -266,7 +266,7 @@ Scale.stareiScale =  new Scale({
         },
         {
             threshold: 54,
-            color: ['#afff4d'],
+            color: ['#eaff00'],
             subtropicalColor: ['#c9ff87'],
             symbol: 'S',
             stormNom: 'Tropical Storm',
@@ -276,7 +276,7 @@ Scale.stareiScale =  new Scale({
         },
         {
             threshold: 64,
-            color: ['#ffffcc'],
+            color: ['#ffff00'],
             symbol: '1',
             stormNom: ['Hurricane','Typhoon','Cyclone'],
             stat: ['Hurricanes','Typhoons','Cyclones'],
@@ -284,13 +284,13 @@ Scale.stareiScale =  new Scale({
         },
         {
             threshold: 83,
-            color: ['#ffe775'],
+            color: ['#ffbf00'],
             symbol: '2',
             cName: 'Category 2'
         },
         {
             threshold: 96,
-            color: ['#ffc140'],
+            color: ['#ff8400'],
             symbol: '3',
             stormNom: ['Major Hurricane','Typhoon','Cyclone'],
             stat: ['Major Hurricanes','Category 3+','Category 3+'],
