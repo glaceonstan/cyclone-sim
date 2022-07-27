@@ -3,7 +3,7 @@ versionLink = document.getElementById("version");
 Version = {};
 
 Version.number = "0.0";
-Version.prefix = "v";
+Version.prefix = "Original by monsoonjr99. v";
 
 function versionLinkUpdate(){
 	versionLink.innerHTML = Version.prefix + Version.number;
