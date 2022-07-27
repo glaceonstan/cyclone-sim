@@ -438,7 +438,7 @@ DesignationSystem.reiAtlantic = new DesignationSystem({
         ['Alice', 'Ben', 'Cora', 'Dante', 'Ellie', 'Francisco', 'Gabby', 'Hank', 'Ivy', 'Jeremy', 'Kendra', 'Lancer', 'Marian', 'Nelson', 'Oleana', 'Pierre', 'Robyn', 'Steve', 'Thelma', 'Vernon', 'Winnie'],
         ['Alfred', 'Bernadette', 'Cris', 'Diamondra', 'Ewan', 'Felicity', 'Garfield', 'Hallie', 'Iverson', 'Joanne', 'Ken', 'Lola', 'Maddox', 'Noelle', 'Odie', 'Pearl', 'Roy', 'Sarah', 'Tate', 'Vanessa', 'Wilson'],
         ['Annette', 'Bart', 'Calista', 'Derek', 'Emma', 'Facundo', 'Geneva', 'Heath', 'Imogen', 'Jared', 'Keanna', 'Lemmy', 'Megan', 'Nando', 'Oriane', 'Paco', 'Regan', 'Sasha', 'Tracy', 'Veremund', 'Wynne'],
-        ['Aaron', 'Bea', 'Callahan', 'Darlene', 'Elroy', 'Faith', 'Garreth', 'Hildegard', 'Iggy', 'Jordyn', 'Kade', 'Leah', 'Mateo', 'Naomi', 'Ormond', 'Paige', 'Ralph', 'Sophie', 'Terry', 'Valentine', 'Ward']
+        ['Aaron', 'Beth', 'Callahan', 'Darlene', 'Elroy', 'Faith', 'Garreth', 'Hildegard', 'Iggy', 'Jordyn', 'Kade', 'Leah', 'Mateo', 'Naomi', 'Ormond', 'Paige', 'Ralph', 'Sophie', 'Terry', 'Valentine', 'Ward']
 
     ],
     auxLists: [
