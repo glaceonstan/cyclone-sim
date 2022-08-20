@@ -177,7 +177,7 @@ const MAP_TYPES = [     // Land generation controls for different map types
         south: 25.65,
         mainSubBasin: EARTH_SB_IDS.medi
     },
-    {   // Test
+    {   // Test type
         form: 'earth',
         west: -180,
         east: -159.91,
