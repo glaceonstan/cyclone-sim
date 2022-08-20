@@ -176,6 +176,14 @@ const MAP_TYPES = [     // Land generation controls for different map types
         north: 55.38,
         south: 25.65,
         mainSubBasin: EARTH_SB_IDS.medi
+    },
+    {   // Test
+        form: 'earth',
+        west: -180,
+        east: -159.91,
+        north: 59.45,
+        south: 0,
+        mainSubBasin: EARTH_SB_IDS.nhem
     }
 ];
 const EARTH_MAP_PATH = 'resources/earth.png';
