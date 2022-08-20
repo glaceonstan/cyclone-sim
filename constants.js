@@ -276,23 +276,23 @@ const HELP_TEXT = "Keyboard Controls:\n" +
 const COLORS = {};      // For storing all colors used in the graphics
 
 function defineColors(){    // Since p5 color() function doesn't work until setup(), this is called in setup()
-    COLORS.bg = color(10,55,155);
+    COLORS.bg = color(0, 18, 47);
     COLORS.storm = {};
     COLORS.storm[EXTROP] = color(220,220,220);
     COLORS.storm[TROPWAVE] = color(130,130,240);
     COLORS.storm.extL = "red";
     COLORS.land = [];
-    COLORS.land.push([0.85, color(190,190,190)]);
-    COLORS.land.push([0.8, color(160,160,160)]);
-    COLORS.land.push([0.75, color(145,115,90)]);
-    COLORS.land.push([0.7, color(160,125,100)]);
-    COLORS.land.push([0.65, color(35,145,35)]);
-    COLORS.land.push([0.6, color(35,160,35)]);
-    COLORS.land.push([0.55, color(30,175,30)]);
-    COLORS.land.push([0.53, color(205,205,105)]);
-    COLORS.land.push([0.5, color(230,230,105)]);
+    COLORS.land.push([0.85, color(54, 74, 35)]);
+    COLORS.land.push([0.8, color(75, 90, 48)]);
+    COLORS.land.push([0.75, color(54, 74, 35)]);
+    COLORS.land.push([0.7, color(75, 90, 48)]);
+    COLORS.land.push([0.65, color(54, 74, 35)]);
+    COLORS.land.push([0.6, color(75, 90, 48)]);
+    COLORS.land.push([0.55, color(54, 74, 35)]);
+    COLORS.land.push([0.53, color(75, 90, 48)]);
+    COLORS.land.push([0.5, color(54, 74, 35)]);
     COLORS.snow = color(240);
-    COLORS.outBasin = color(45,70,120);
+    COLORS.outBasin = color(0, 18, 47);
     COLORS.subBasinOutline = color(255,255,0);
     COLORS.UI = {};
     COLORS.UI.bar = color(200,100);
